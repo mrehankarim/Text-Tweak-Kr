@@ -1,3 +1,7 @@
+#Project Summary:
+TextTweakkr is a simple text formating utility that allows user to perform basic text formatting such as bold,italic,case change and generate random color for text. It's one of my stating React Projects.I am open for suggestions and improvements.
+Muhammad Rehan 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
